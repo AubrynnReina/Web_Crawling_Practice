@@ -1,0 +1,8 @@
+# Environment variables
+/plugins/.env
+
+# Airflow logs
+/logs
+
+# Large data
+/data
